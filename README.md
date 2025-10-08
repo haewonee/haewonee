@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=haewon's%20GITHUB&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=haewonee's%20GITHUB&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
 <table>
@@ -53,6 +53,7 @@
   </tr>
 </table>
 
+</td>
 
 <td width="46%" valign="top">
 
@@ -73,28 +74,40 @@
 </td>
 </tr>
 </table>
+
+---
+
 <!-- 🐿️ My GitFarm -->
 <div align="center">
 
----
-  
 ### 🐿️ My GitFarm
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haewonee&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/haewonee"
-    width="600"
-    height="300"
-    alt="haewonee's git farm"
-  />
-</a>
-
-<br/>
-
-<sub><em>🐾 꾸준히 성장 중인 해원의 깃팜</em></sub>
+<table>
+  <tr>
+    <td align="center" style="
+        border: 2px solid #ffb6c1;
+        border-radius: 12px;
+        padding: 10px;
+        background-color: #fffafa;
+      ">
+      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haewonee&utm_content=farm">
+        <img
+          src="https://wsrv.nl/?url=render.gitanimals.dev/farms/haewonee?theme=pastel"
+          width="600"
+          height="300"
+          alt="haewonee's git farm"
+          style="border-radius: 8px;"
+        />
+      </a>
+      <br/>
+      <sub><em>🐾 꾸준히 성장 중인 해원의 깃팜</em></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+---
 
 <!-- 하단 배너 -->
 <p align="center">
