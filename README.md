@@ -73,12 +73,14 @@
 </td>
 </tr>
 </table>
+<!-- 🐿️ My GitFarm -->
+<div align="center">
 
 ### 🐿️ My GitFarm
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haewonee&utm_content=farm">
   <img
-    src="https://render.gitanimals.dev/farms/haewonee?theme=pastel"
+    src="https://render.gitanimals.org/farms/haewonee"
     width="600"
     height="300"
     alt="haewonee's git farm"
@@ -86,9 +88,11 @@
 </a>
 
 <br/>
+
 <sub><em>🐾 꾸준히 성장 중인 해원의 깃팜</em></sub>
 
 </div>
+
 
 <!-- 하단 배너 -->
 <p align="center">
