@@ -74,8 +74,15 @@
 </td>
 </tr>
 </table>
+<!-- 🐿 GitAnimals Farm (Pastel Theme) -->
 <p align="center">
-  <img src="https://gitanimals.dev/api/animals?username=haewonee&theme=pastel"/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haewonee&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/haewonee?theme=pastel"
+      width="600"
+      height="300"
+    />
+  </a>
 </p>
 
 ---
