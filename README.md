@@ -23,27 +23,37 @@
 
 ## ⚒️ Tech Stack
 
-**🖥 Backend**  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" height="40"/>
-</p>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,spring,hibernate" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Infra / DevOps</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Others</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kafka,git" height="40"/>
+    </td>
+  </tr>
+</table>
 
-**💾 Database**  
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40"/>
-</p>
-
-**⚙️ Infra / DevOps**  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" height="40"/>
-</p>
-
-**🔗 Others**  
-<p>
-  <img src="https://skillicons.dev/icons?i=kafka,git" height="40"/>
-</p>
-
-</td>
 
 <td width="46%" valign="top">
 
