@@ -11,8 +11,7 @@
 
 - ☀️ **기본부터 탄탄히**, 꾸준히 성장하는 백엔드 개발자입니다.  
 - ⚙️ 코드를 단순히 "동작"시키는 것을 넘어, **더 나은 구조와 안정성**을 고민합니다.  
-- 📚 Spring Boot · PostgreSQL · Kafka · Docker 기반 서버 개발 경험이 있습니다.  
-- 🌱 매일 조금씩 발전하고 있습니다.
+- 🌱 매일 조금씩 발전하고 있습니다.  
 
 ---
 
@@ -24,12 +23,32 @@
 
 ## ⚒️ Tech Stack
 
-| Category | Stack |
-|:--|:--|
-| **Backend** | Java · Spring Boot · JPA · Swagger |
-| **Database** | PostgreSQL · MongoDB |
-| **DevOps / Infra** | Docker · AWS EC2 · GitHub Actions |
-| **Etc** | Kafka · Scheduler |
+### 🖥 Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-FF69B4?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-FADADD?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-FFC0CB?style=for-the-badge&logo=swagger&logoColor=white"/>
+</p>
+
+### 💾 Database
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### ⚙️ DevOps / Infra
+<p>
+  <img src="https://img.shields.io/badge/Docker-FADADD?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FFC0CB?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-FFB6C1?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+### 🔗 Others
+<p>
+  <img src="https://img.shields.io/badge/Kafka-FF69B4?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scheduler-FADADD?style=for-the-badge&logo=clockify&logoColor=white"/>
+</p>
 
 </td>
 
@@ -38,15 +57,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haewon&theme=rose_pine&ring=ffb6c1&fire=ff69b4&currStreakLabel=fce4ec" width="90%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haewonee&theme=rose_pine&ring=ffb6c1&fire=ff69b4&currStreakLabel=fce4ec" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haewon&show_icons=true&theme=rose_pine&title_color=ffb6c1&icon_color=ff69b4&text_color=fce4ec&bg_color=141321" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haewonee&show_icons=true&theme=rose_pine&title_color=ffb6c1&icon_color=ff69b4&text_color=fce4ec&bg_color=141321" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haewon&layout=compact&theme=rose_pine&title_color=ffb6c1&text_color=fce4ec&bg_color=141321" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haewonee&layout=compact&theme=rose_pine&title_color=ffb6c1&text_color=fce4ec&bg_color=141321" width="90%"/>
 </p>
 
 </td>
