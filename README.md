@@ -74,9 +74,6 @@
 </tr>
 </table>
 
-<!-- 🐿️ My GitFarm -->
-<div align="center">
-
 ### 🐿️ My GitFarm
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haewonee&utm_content=farm">
