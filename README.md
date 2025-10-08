@@ -74,6 +74,9 @@
 </td>
 </tr>
 </table>
+<p align="center">
+  <img src="https://gitanimals.dev/api/animals?username=haewonee&theme=pastel"/>
+</p>
 
 ---
 
