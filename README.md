@@ -23,37 +23,25 @@
 
 ## ⚒️ Tech Stack
 
-<div align="center">
+**🖥 Backend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" height="40"/>
+</p>
 
-<table>
-<tr>
-<td align="center" width="100">
+**💾 Database**  
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40"/>
+</p>
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate" width="130"/>
+**⚙️ Infra / DevOps**  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" height="40"/>
+</p>
 
-</td>
-<td align="center" width="100">
-
-**Database**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" width="130"/>
-
-</td>
-<td align="center" width="100">
-
-**Infra**  
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions" width="130"/>
-
-</td>
-<td align="center" width="100">
-
-**Others**  
-<img src="https://skillicons.dev/icons?i=kafka,git" width="110"/>
-
-</td>
-</tr>
-</table>
-</div>
+**🔗 Others**  
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka,git" height="40"/>
+</p>
 
 </td>
 
