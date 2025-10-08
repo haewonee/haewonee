@@ -80,30 +80,21 @@
 <!-- 🐿️ My GitFarm -->
 <div align="center">
 
+---
+
 ### 🐿️ My GitFarm
 
-<table>
-  <tr>
-    <td align="center" style="
-        border: 2px solid #ffb6c1;
-        border-radius: 12px;
-        padding: 10px;
-        background-color: #fffafa;
-      ">
-      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haewonee&utm_content=farm">
-        <img
-          src="https://wsrv.nl/?url=render.gitanimals.dev/farms/haewonee?theme=pastel"
-          width="600"
-          height="300"
-          alt="haewonee's git farm"
-          style="border-radius: 8px;"
-        />
-      </a>
-      <br/>
-      <sub><em>🐾 꾸준히 성장 중인 해원의 깃팜</em></sub>
-    </td>
-  </tr>
-</table>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haewonee&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/haewonee"
+    width="600"
+    height="300"
+    alt="haewonee's git farm"
+  />
+</a>
+
+<br/>
+<sub><em>🐾 꾸준히 성장 중인 해원의 깃팜</em></sub>
 
 </div>
 
