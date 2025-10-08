@@ -94,7 +94,7 @@
 </a>
 
 <br/>
-<sub><em>🐾 꾸준히 성장 중인 해원의 깃팜</em></sub>
+<sub><em>🐾 꾸준히 성장 중인 haewonee의 깃팜</em></sub>
 
 </div>
 
