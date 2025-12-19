@@ -20,7 +20,7 @@
 
 ---
 
-⚒️ Tech Stack
+## ⚒️ Tech Stack
 💻 Language
 <p> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=000"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge"/> </p>
 🧩 Framework & Runtime
