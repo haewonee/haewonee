@@ -20,39 +20,23 @@
 
 ---
 
-## ⚒️ Tech Stack
-
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Stack</th>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,hibernate" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Database</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Infra / DevOps</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Others</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=kafka,git" height="40"/>
-    </td>
-  </tr>
-</table>
-
+⚒️ Tech Stack
+💻 Language
+<p> <img src="https://skillicons.dev/icons?i=java,sql,ts,js,python,cpp" /> </p>
+🧩 Framework & Runtime
+<p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react" /> </p>
+📚 Library
+<p> <img src="https://skillicons.dev/icons?i=hibernate,tailwind" /> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io"/> <img src="https://img.shields.io/badge/Styled--Components-db7093?style=for-the-badge&logo=styled-components"/> </p>
+🗄️ Database
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> </p>
+☁️ Infra / DevOps
+<p> <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" /> </p>
+🔧 Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,postman,figma" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/> <img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge&logo=firebase"/> </p>
+🧠 IDE
+<p> <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,visualstudio,pycharm" /> </p>
+🤖 AI Tools
+<p> <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai"/> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google"/> </p>
 </td>
 
 <td width="46%" valign="top">
