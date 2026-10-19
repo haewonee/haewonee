@@ -39,9 +39,6 @@ Backend Developer
   <img src="https://img.shields.io/badge/Email-godnjs5870%40naver.com-FFB6C1?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
 
-**GitHub**
-
-[github.com/haewonee](https://github.com/haewonee)
 
 </td>
 </tr>
@@ -109,9 +106,7 @@ Backend Developer
 
 <br/><br/>
 
-<a href="https://github.com/haewonee">
-  <img src="https://img.shields.io/badge/GitHub-haewonee-FFB6C1?style=flat-square&logo=github&logoColor=white"/>
-</a>
+
 
 </div>
 
