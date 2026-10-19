@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=haewonee's%20GITHUB&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ## 🌸 About Me
 
 백엔드 개발을 중심으로 프로젝트를 진행하며 서버 개발 경험을 쌓고 있습니다.
@@ -11,17 +15,22 @@
 - 기능 구현뿐 아니라 데이터 흐름과 서비스의 안정성까지 고민합니다.
 - 다양한 기술을 프로젝트에 적용하며 개발 경험을 넓혀가고 있습니다.
 
----
+</td>
+<td width="40%" valign="top">
 
 ## 💌 Contact
 
-- godnjs5870@naver.com
+<br/>
+
+**Email**
+
+godnjs5870@naver.com
+
+</td>
+</tr>
+</table>
 
 ---
-
-<table>
-<tr>
-<td width="54%" valign="top">
 
 ## ⚒️ Tech Stack
 
@@ -38,27 +47,6 @@
 | **IDE** | **IntelliJ IDEA**, VSCode, Eclipse, Visual Studio |
 | **Web** | HTML, CSS |
 | **Office** | Excel, Word, PowerPoint |
-
-</td>
-<td width="46%" valign="top">
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haewonee&theme=rose_pine&ring=ffb6c1&fire=ff69b4&currStreakLabel=fce4ec" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haewonee&show_icons=true&theme=rose_pine&title_color=ffb6c1&icon_color=ff69b4&text_color=fce4ec&bg_color=141321&cache_seconds=86400" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haewonee&layout=compact&theme=rose_pine&title_color=ffb6c1&text_color=fce4ec&bg_color=141321&cache_seconds=86400" width="100%"/>
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -82,6 +70,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 🐿️ My GitFarm
 
 <div align="center">
@@ -89,8 +81,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haewonee&utm_content=farm">
   <img
     src="https://render.gitanimals.org/farms/haewonee"
-    width="600"
-    height="300"
+    width="100%"
     alt="haewonee's git farm"
   />
 </a>
@@ -100,6 +91,27 @@
 <sub><em>🐾 꾸준히 성장 중인 haewonee의 깃팜</em></sub>
 
 </div>
+
+</td>
+<td width="50%" valign="top">
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haewonee&theme=rose_pine&ring=ffb6c1&fire=ff69b4&currStreakLabel=fce4ec" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haewonee&show_icons=true&theme=rose_pine&title_color=ffb6c1&icon_color=ff69b4&text_color=fce4ec&bg_color=141321&cache_seconds=86400" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haewonee&layout=compact&theme=rose_pine&title_color=ffb6c1&text_color=fce4ec&bg_color=141321&cache_seconds=86400" width="100%"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
