@@ -35,20 +35,13 @@ Backend Developer
 
 **Email**
 
-godnjs5870@naver.com
-
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Email-godnjs5870%40naver.com-FFB6C1?style=flat-square&logo=gmail&logoColor=white"/>
+</p>
 
 **GitHub**
 
 [github.com/haewonee](https://github.com/haewonee)
-
-<br/>
-
-**Interests**
-
-Backend Development  
-Database · Cloud · AI
 
 </td>
 </tr>
@@ -116,19 +109,9 @@ Database · Cloud · AI
 
 <br/><br/>
 
-<sub><em>🐾 꾸준히 성장 중인 haewonee의 깃팜</em></sub>
-
-<br/><br/>
-
 <a href="https://github.com/haewonee">
   <img src="https://img.shields.io/badge/GitHub-haewonee-FFB6C1?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-**Backend Development**
-
-Database · Cloud · AI
 
 </div>
 
