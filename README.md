@@ -7,91 +7,63 @@
 <tr>
 <td width="54%" valign="top">
 
-## 🌸 About Me
+## About Me
 
-- ☀️ **기본부터 탄탄히**, 꾸준히 성장하는 백엔드 개발자입니다.  
-- ⚙️ 코드를 단순히 “동작”시키는 것을 넘어, **더 나은 구조와 안정성**을 고민합니다.  
-- 🌱 매일 조금씩 발전하고 있습니다.  
+백엔드 개발을 중심으로 다양한 기술을 익히며 프로젝트 경험을 쌓고 있습니다.
 
----
-
-## 💌 Contact
-- 💌 godnjs5870@naver.com  
+- Java와 Spring Boot를 중심으로 서버 개발 역량을 키우고 있습니다.
+- 기능 구현뿐 아니라 데이터 흐름과 서비스의 안정성까지 고려하며 개발합니다.
+- 새로운 기술을 익히고 프로젝트에 적용하며 경험의 범위를 넓혀가고 있습니다.
 
 ---
 
-## ⚒️ Tech Stack
+## Contact
 
-<table width="100%">
-<tr>
-<th width="25%">Category</th>
-<th>Stack</th>
-</tr>
+- Email: godnjs5870@naver.com
 
-<tr>
-<td align="center"><b>Language</b></td>
-<td>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=000"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
-</td>
-</tr>
+---
 
-<tr>
-<td align="center"><b>Framework / Runtime</b></td>
-<td>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square"/>
-</td>
-</tr>
+## Tech Stack
 
-<tr>
-<td align="center"><b>ORM / Library</b></td>
-<td>
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square"/>
-</td>
-</tr>
+| Category | Skills |
+|:--|:--|
+| **Language** | **Java**, **SQL**, C++ |
+| **Framework** | **Spring Boot** |
+| **ORM / Library** | **JPA** |
+| **Database** | **PostgreSQL**, **MySQL**, MongoDB |
+| **Messaging / Streaming** | Kafka |
+| **DevOps & Cloud** | Docker |
+| **Software & Tools** | Swagger, Git, GitHub, Postman, Thunder Client, ERDCloud, DBeaver, Notion, Figma, Slack |
+| **AI Tools** | ChatGPT, Claude, Google Gemini |
+| **IDE** | **IntelliJ IDEA**, VSCode, Eclipse, Visual Studio |
+| **Web** | HTML, CSS |
+| **Office** | Excel, Word, PowerPoint |
 
-<tr>
-<td align="center"><b>Database</b></td>
-<td>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square"/>
-</td>
-</tr>
+---
 
-<tr>
-<td align="center"><b>Infra / DevOps</b></td>
-<td>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square"/>
-</td>
-</tr>
+## Awards
 
-<tr>
-<td align="center"><b>Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square"/>
-<img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square"/>
-<img src="https://img.shields.io/badge/ERDCloud-4B6EF5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logoColor=000"/>
-</td>
-</tr>
+| Date | Award | Organization | Role |
+|:--|:--|:--|:--|
+| 2025.04.04 | PayRunner — 우수상 | 한국경제신문 × 토스뱅크 | Full Stack |
+| 2025.07.02 | PopoWorld — 대상 | 토스뱅크 CTO | Backend Developer |
+| 2025.12.22 | FitFit — 우수상 | 인하대학교 SW중심대학사업단 | Team Leader / Backend Lead Developer |
+| 2026.06.16 | Critical Hero — 장려상 | 인하대학교 소프트웨어융합대학 | Backend Developer |
 
-</table>
+---
+
+## Certifications
+
+| Date | Certification | Organization |
+|:--|:--|:--|
+| 2026.05 | AWS Certified Cloud Practitioner | AWS |
+| 2026.08.22 | SQLD | 한국데이터산업진흥원 |
+
 </td>
 
 <td width="46%" valign="top">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haewonee&theme=rose_pine&ring=ffb6c1&fire=ff69b4&currStreakLabel=fce4ec" width="95%"/>
@@ -111,12 +83,10 @@
 
 ---
 
-<!-- 🐿️ My GitFarm -->
+<!-- GitFarm -->
 <div align="center">
 
----
-
-### 🐿️ My GitFarm
+### My GitFarm
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haewonee&utm_content=farm">
   <img
@@ -128,7 +98,7 @@
 </a>
 
 <br/>
-<sub><em>🐾 꾸준히 성장 중인 haewonee의 깃팜</em></sub>
+<sub><em>꾸준히 쌓아가는 개발 기록</em></sub>
 
 </div>
 
