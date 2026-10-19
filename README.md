@@ -18,7 +18,7 @@ Backend Developer
 <!-- About Me & Contact -->
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="500" valign="top">
 
 ## 🌸 About Me
 
@@ -29,7 +29,7 @@ Backend Developer
 - 다양한 기술을 프로젝트에 적용하며 개발 경험을 넓혀가고 있습니다.
 
 </td>
-<td width="40%" valign="top">
+<td width="350" valign="top">
 
 ## 💌 Contact
 
@@ -105,11 +105,13 @@ Database · Cloud · AI
 <div align="center">
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haewonee&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/haewonee"
-    width="100%"
-    alt="haewonee's git farm"
-  />
+  <img src="https://render.gitanimals.org/farms/haewonee" width="100%" alt="haewonee's git farm"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haewonee&utm_content=line">
+  <img src="https://render.gitanimals.org/lines/haewonee" width="100%" alt="haewonee's git animals line"/>
 </a>
 
 <br/><br/>
