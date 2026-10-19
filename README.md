@@ -39,7 +39,6 @@ Backend Developer
   <img src="https://img.shields.io/badge/Email-godnjs5870%40naver.com-FFB6C1?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
 
-
 </td>
 </tr>
 </table>
@@ -73,15 +72,13 @@ Backend Developer
 |:--|:--|
 | **Language** | **Java**, **SQL**, C++ |
 | **Framework** | **Spring Boot** |
-| **ORM / Library** | **JPA** |
+| **ORM / Library** | **JPA**, MyBatis |
 | **Database** | **PostgreSQL**, **MySQL**, MongoDB |
 | **Messaging / Streaming** | Kafka |
 | **DevOps & Cloud** | Docker |
 | **Software & Tools** | Swagger, Git, GitHub, Postman, Thunder Client, ERDCloud, DBeaver, Notion, Figma, Slack |
 | **AI Tools** | ChatGPT, Claude, Google Gemini |
 | **IDE** | **IntelliJ IDEA**, VSCode, Eclipse, Visual Studio |
-| **Web** | HTML, CSS |
-| **Office** | Excel, Word, PowerPoint |
 
 ---
 
@@ -103,10 +100,6 @@ Backend Developer
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haewonee&utm_content=line">
   <img src="https://render.gitanimals.org/lines/haewonee" width="100%" alt="haewonee's git animals line"/>
 </a>
-
-<br/><br/>
-
-
 
 </div>
 
