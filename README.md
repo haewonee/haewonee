@@ -3,6 +3,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=haewonee's%20GITHUB&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
+<div align="center">
+
+### 🌸 haewonee
+
+**Java · Spring Boot · PostgreSQL**
+
+Backend Developer
+
+</div>
+
+---
+
+<!-- About Me & Contact -->
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -20,33 +33,26 @@
 
 ## 💌 Contact
 
-<br/>
-
 **Email**
 
 godnjs5870@naver.com
 
+<br/>
+
+**GitHub**
+
+[github.com/haewonee](https://github.com/haewonee)
+
+<br/>
+
+**Interests**
+
+Backend Development  
+Database · Cloud · AI
+
 </td>
 </tr>
 </table>
-
----
-
-## ⚒️ Tech Stack
-
-| Category | Skills |
-|:--|:--|
-| **Language** | **Java**, **SQL**, C++ |
-| **Framework** | **Spring Boot** |
-| **ORM / Library** | **JPA** |
-| **Database** | **PostgreSQL**, **MySQL**, MongoDB |
-| **Messaging / Streaming** | Kafka |
-| **DevOps & Cloud** | Docker |
-| **Software & Tools** | Swagger, Git, GitHub, Postman, Thunder Client, ERDCloud, DBeaver, Notion, Figma, Slack |
-| **AI Tools** | ChatGPT, Claude, Google Gemini |
-| **IDE** | **IntelliJ IDEA**, VSCode, Eclipse, Visual Studio |
-| **Web** | HTML, CSS |
-| **Office** | Excel, Word, PowerPoint |
 
 ---
 
@@ -70,6 +76,26 @@ godnjs5870@naver.com
 
 ---
 
+<!-- Tech Stack -->
+## ⚒️ Tech Stack
+
+| Category | Skills |
+|:--|:--|
+| **Language** | **Java**, **SQL**, C++ |
+| **Framework** | **Spring Boot** |
+| **ORM / Library** | **JPA** |
+| **Database** | **PostgreSQL**, **MySQL**, MongoDB |
+| **Messaging / Streaming** | Kafka |
+| **DevOps & Cloud** | Docker |
+| **Software & Tools** | Swagger, Git, GitHub, Postman, Thunder Client, ERDCloud, DBeaver, Notion, Figma, Slack |
+| **AI Tools** | ChatGPT, Claude, Google Gemini |
+| **IDE** | **IntelliJ IDEA**, VSCode, Eclipse, Visual Studio |
+| **Web** | HTML, CSS |
+| **Office** | Excel, Word, PowerPoint |
+
+---
+
+<!-- GitFarm & GitHub Stats -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -86,9 +112,21 @@ godnjs5870@naver.com
   />
 </a>
 
-<br/>
+<br/><br/>
 
 <sub><em>🐾 꾸준히 성장 중인 haewonee의 깃팜</em></sub>
+
+<br/><br/>
+
+<a href="https://github.com/haewonee">
+  <img src="https://img.shields.io/badge/GitHub-haewonee-FFB6C1?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Backend Development**
+
+Database · Cloud · AI
 
 </div>
 
