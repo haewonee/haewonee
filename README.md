@@ -33,8 +33,6 @@ Backend Developer
 
 ## 💌 Contact
 
-**Email**
-
 <p>
   <img src="https://img.shields.io/badge/Email-godnjs5870%40naver.com-FFB6C1?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
