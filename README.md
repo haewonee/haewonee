@@ -51,7 +51,7 @@ Backend Developer
 |:--|:--|:--|:--|:--|
 | 2025.04.04 | Full Stack 과정 부트캠프 중간 프로젝트 **PayRunner** | 우수상 | 한국경제신문 × 토스뱅크 | Full Stack |
 | 2025.07.02 | Full Stack 과정 부트캠프 최종 프로젝트 **PopoWorld** | 대상 | 토스뱅크 CTO | Backend Developer |
-| 2025.12.22 | 탄소중립 INNOVATION ACADEMY 5기 프로젝트 **FitFit** | 우수상 | 인하대학교 SW중심 사업단 | 팀장 / Backend Lead Developer |
+| 2025.12.22 | 탄소중립 INNOVATION ACADEMY 5기 프로젝트 **FitFit** | 우수상 | 인하대학교 SW중심 사업단 | 팀장 / Backend Developer |
 | 2026.06.16 | 컴퓨터공학과 캡스톤디자인 프로젝트 **Critical Hero** — MCP와 RAG 기반 AIOps 플랫폼 | 장려상 | 인하대학교 소프트웨어융합대학 | Backend Developer |
 
 ---
@@ -75,10 +75,8 @@ Backend Developer
 | **ORM / Library** | **JPA**, MyBatis |
 | **Database** | **PostgreSQL**, **MySQL**, MongoDB |
 | **Messaging / Streaming** | Kafka |
-| **DevOps & Cloud** | Docker |
-| **Software & Tools** | Swagger, Git, GitHub, Postman, Thunder Client, ERDCloud, DBeaver, Notion, Figma, Slack |
-| **AI Tools** | ChatGPT, Claude, Google Gemini |
-| **IDE** | **IntelliJ IDEA**, VSCode, Eclipse, Visual Studio |
+| **DevOps & Cloud** | Docker, AWS |
+| **Software & Tools** | Swagger, Git, GitHub, Postman, ERDCloud, DBeaver, Notion, Figma, Slack |
 
 ---
 
