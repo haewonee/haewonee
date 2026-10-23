@@ -58,7 +58,7 @@ Backend Developer
 
 | 취득일 | 자격 | 기관 |
 |:--|:--|:--|
-| 2026.05 | AWS Certified Cloud Practitioner | AWS |
+| 2026.05.30 | AWS Certified Cloud Practitioner | AWS |
 | 2026.08.22 | SQLD | 한국데이터산업진흥원 |
 
 ---
