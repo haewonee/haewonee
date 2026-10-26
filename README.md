@@ -33,6 +33,8 @@ Backend Developer
 
 ## 💌 Contact
 
+**Email**
+
 <p>
   <img src="https://img.shields.io/badge/Email-godnjs5870%40naver.com-FFB6C1?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
@@ -47,9 +49,9 @@ Backend Developer
 
 | 기간 | 내용 | 수상명 | 기관 | 참여 포지션 |
 |:--|:--|:--|:--|:--|
-| 2025.04.04 | Full Stack 과정 부트캠프 중간 프로젝트 **PayRunner** | 우수상 | 한국경제신문 | Full Stack |
-| 2025.07.02 | Full Stack 과정 부트캠프 최종 프로젝트 **PopoWorld** | 대상 | 토스뱅크 | Backend Developer |
-| 2025.12.22 | 탄소중립 INNOVATION ACADEMY 5기 프로젝트 **FitFit** | 우수상 | 인하대학교 SW중심 사업단 | 팀장 / Backend Developer |
+| 2025.04.04 | Full Stack 과정 부트캠프 중간 프로젝트 **PayRunner** | 우수상 | 한국경제신문 × 토스뱅크 | Full Stack |
+| 2025.07.02 | Full Stack 과정 부트캠프 최종 프로젝트 **PopoWorld** | 대상 | 토스뱅크 CTO | Backend Developer |
+| 2025.12.22 | 탄소중립 INNOVATION ACADEMY 5기 프로젝트 **FitFit** | 우수상 | 인하대학교 SW중심 사업단 | 팀장 / Backend Lead Developer |
 | 2026.06.16 | 컴퓨터공학과 캡스톤디자인 프로젝트 **Critical Hero** — MCP와 RAG 기반 AIOps 플랫폼 | 장려상 | 인하대학교 소프트웨어융합대학 | Backend Developer |
 
 ---
@@ -58,7 +60,7 @@ Backend Developer
 
 | 취득일 | 자격 | 기관 |
 |:--|:--|:--|
-| 2026.05.30 | AWS Certified Cloud Practitioner | AWS |
+| 2026.05 | AWS Certified Cloud Practitioner | AWS |
 | 2026.08.22 | SQLD | 한국데이터산업진흥원 |
 
 ---
@@ -73,8 +75,24 @@ Backend Developer
 | **ORM / Library** | **JPA**, MyBatis |
 | **Database** | **PostgreSQL**, **MySQL**, MongoDB |
 | **Messaging / Streaming** | Kafka |
-| **DevOps & Cloud** | Docker, AWS |
-| **Software & Tools** | Swagger, Git, GitHub, Postman, ERDCloud, DBeaver, Notion, Figma, Slack |
+| **DevOps & Cloud** | Docker |
+| **Software & Tools** | Swagger, Git, GitHub, Postman, Thunder Client, ERDCloud, DBeaver, Notion, Figma, Slack |
+| **AI Tools** | ChatGPT, Claude, Google Gemini |
+| **IDE** | **IntelliJ IDEA**, VSCode, Eclipse, Visual Studio |
+
+---
+
+<!-- Projects -->
+## 📌 Projects
+
+| Project | 기간 | Description | Stack |
+|:--:|:--:|:--|:--|
+| [**PayRunner**](https://github.com/haewonee/PayRunner) | 2025.02 ~ 2025.03 | 공고 등록부터 전자 근로계약·출퇴근·임금 정산까지 지원하는 올인원 근로관리 솔루션 | React · TypeScript · Express.js · MongoDB · Socket.io |
+| [**PopoWorld**](https://github.com/team-popo-world/popo-back-repo) | 2025.04 ~ 2025.07 | 부모와 자녀가 함께하는 게임형 금융교육 플랫폼 | Spring Boot · PostgreSQL · MongoDB · Kafka · AWS EC2 |
+| [**FitFit**](https://github.com/haewonee/Fitfit-Server) | 2025.09 ~ 2025.12 | AI 가상 피팅과 신뢰 기반 거래를 제공하는 탄소중립 중고 의류 거래 플랫폼 | Spring Boot · MySQL · WebSocket(STOMP) · AWS EC2 · S3 |
+| [**모아모아**](https://github.com/haewonee/Back-end) | 2026.01 ~ 진행중 | 자투리 시간을 맞춤 미션으로 생산적인 시간으로 바꾸는 자기계발 플랫폼 | Spring Boot · MySQL · Redis · AWS EC2 · Flyway |
+| [**Critical Hero**](https://github.com/haewonee/critical-heros) | 2026.03 ~ 2026.06 | MCP와 RAG 기반으로 장애 원인을 추론하는 AIOps 플랫폼 | Node.js · TypeScript · ClickHouse · PostgreSQL · AWS |
+| **Every.lol** | 2026.03 ~ 진행중 | 실시간 경기 정보와 승부예측·POG 투표를 제공하는 LCK 팬 플랫폼 | Spring Boot · MySQL · Redis · AWS EC2 |
 
 ---
 
