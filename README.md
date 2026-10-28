@@ -87,17 +87,14 @@ Backend Developer
 
 | Project | 기간 | Description | Team |
 |:--:|:--:|:--|:--|
-| [**PayRunner**](https://github.com/haewonee/PayRunner) | 2025.02&nbsp;~&nbsp;2025.03 | 공고 등록부터 전자 근로계약·출퇴근·임금 정산까지 지원하는 올인원 근로관리 솔루션 | $\color{#FF69B4}{\textsf{\textbf{FullStack 4}}}$ |
-| [**PopoWorld**](https://github.com/team-popo-world/popo-back-repo) | 2025.04&nbsp;~&nbsp;2025.07 | 부모와 자녀가 함께하는 게임형 금융교육 플랫폼 | FE&nbsp;3 + $\color{#FF69B4}{\textsf{\textbf{BE 2}}}$ + ML&nbsp;4 |
-| [**FitFit**](https://github.com/haewonee/Fitfit-Server) | 2025.09&nbsp;~&nbsp;2025.12 | AI 가상 피팅과 신뢰 기반 거래를 제공하는 탄소중립 중고 의류 거래 플랫폼 | FE&nbsp;1 + $\color{#FF69B4}{\textsf{\textbf{BE 2}}}$ + AI&nbsp;3 |
-| [**모아모아**](https://github.com/haewonee/Back-end) | 2026.01&nbsp;~&nbsp;2026.03 | 자투리 시간을 맞춤 미션으로 생산적인 시간으로 바꾸는 자기계발 플랫폼 | FE&nbsp;4 + $\color{#FF69B4}{\textsf{\textbf{BE 5}}}$ + PM&nbsp;1 + Design&nbsp;1 |
-| [**Critical&nbsp;Hero**](https://github.com/haewonee/critical-heros) | 2026.03&nbsp;~&nbsp;2026.06 | MCP와 RAG 기반으로 장애 원인을 추론하는 AIOps 플랫폼 | Infra&nbsp;1 + $\color{#FF69B4}{\textsf{\textbf{BE 1}}}$ + FullStack&nbsp;1 |
-| **Every.lol** | 2026.03&nbsp;~&nbsp;2026.08 | 실시간 경기 정보와 승부예측·POG 투표를 제공하는 LCK 팬 플랫폼 | FE&nbsp;3 + $\color{#FF69B4}{\textsf{\textbf{BE 3}}}$ + PM&nbsp;1 + Design&nbsp;1 |
-
-<sub>$\color{#FF69B4}{\textsf{\textbf{핑크}}}$ = 내 포지션</sub>
+| [**PayRunner**](https://github.com/haewonee/PayRunner) | 2025.02&nbsp;~&nbsp;2025.03 | 공고 등록부터 전자 근로계약·출퇴근·임금 정산까지 지원하는 올인원 근로관리 솔루션 | $\color{#E0457B}{\textbf{\textsf{FullStack 4}}}$ |
+| [**PopoWorld**](https://github.com/team-popo-world/popo-back-repo) | 2025.04&nbsp;~&nbsp;2025.07 | 부모와 자녀가 함께하는 게임형 금융교육 플랫폼 | FE&nbsp;3 + $\color{#E0457B}{\textbf{\textsf{BE 2}}}$ + ML&nbsp;4 |
+| [**FitFit**](https://github.com/haewonee/Fitfit-Server) | 2025.09&nbsp;~&nbsp;2025.12 | AI 가상 피팅과 신뢰 기반 거래를 제공하는 탄소중립 중고 의류 거래 플랫폼 | FE&nbsp;1 + $\color{#E0457B}{\textbf{\textsf{BE 2}}}$ + AI&nbsp;3 |
+| [**모아모아**](https://github.com/haewonee/Back-end) | 2026.01&nbsp;~&nbsp;2026.03 | 자투리 시간을 맞춤 미션으로 생산적인 시간으로 바꾸는 자기계발 플랫폼 | FE&nbsp;4 + $\color{#E0457B}{\textbf{\textsf{BE 5}}}$ + PM&nbsp;1 + Design&nbsp;1 |
+| [**Critical&nbsp;Hero**](https://github.com/haewonee/critical-heros) | 2026.03&nbsp;~&nbsp;2026.06 | MCP와 RAG 기반으로 장애 원인을 추론하는 AIOps 플랫폼 | Infra&nbsp;1 + $\color{#E0457B}{\textbf{\textsf{BE 1}}}$ + FullStack&nbsp;1 |
+| **Every.lol** | 2026.03&nbsp;~&nbsp;2026.08 | 실시간 경기 정보와 승부예측·POG 투표를 제공하는 LCK 팬 플랫폼 | FE&nbsp;3 + $\color{#E0457B}{\textbf{\textsf{BE 3}}}$ + PM&nbsp;1 + Design&nbsp;1 |
 
 ---
-
 <!-- GitFarm & GitHub Stats -->
 <table>
 <tr>
