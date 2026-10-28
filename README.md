@@ -85,14 +85,14 @@ Backend Developer
 <!-- Projects -->
 ## 📌 Projects
 
-| Project | 기간 | Description | Stack |
+| Project | 기간 | Description | Team |
 |:--:|:--:|:--|:--|
-| [**PayRunner**](https://github.com/haewonee/PayRunner) | 2025.02 ~ 2025.03 | 공고 등록부터 전자 근로계약·출퇴근·임금 정산까지 지원하는 올인원 근로관리 솔루션 | React · TypeScript · Express.js · MongoDB · Socket.io |
-| [**PopoWorld**](https://github.com/team-popo-world/popo-back-repo) | 2025.04 ~ 2025.07 | 부모와 자녀가 함께하는 게임형 금융교육 플랫폼 | Spring Boot · PostgreSQL · MongoDB · Kafka · AWS EC2 |
-| [**FitFit**](https://github.com/haewonee/Fitfit-Server) | 2025.09 ~ 2025.12 | AI 가상 피팅과 신뢰 기반 거래를 제공하는 탄소중립 중고 의류 거래 플랫폼 | Spring Boot · MySQL · WebSocket(STOMP) · AWS EC2 · S3 |
-| [**모아모아**](https://github.com/haewonee/Back-end) | 2026.01 ~ 2026.03 | 자투리 시간을 맞춤 미션으로 생산적인 시간으로 바꾸는 자기계발 플랫폼 | Spring Boot · MySQL · Redis · AWS EC2 · Flyway |
-| [**Critical Hero**](https://github.com/haewonee/critical-heros) | 2026.03 ~ 2026.06 | MCP와 RAG 기반으로 장애 원인을 추론하는 AIOps 플랫폼 | Node.js · TypeScript · ClickHouse · PostgreSQL · AWS |
-| **Every.lol** | 2026.03 ~ 2026.08 | 실시간 경기 정보와 승부예측·POG 투표를 제공하는 LCK 팬 플랫폼 | Spring Boot · MySQL · Redis · AWS EC2 |
+| [**PayRunner**](https://github.com/haewonee/PayRunner) | 2025.02 ~ 2025.03 | 공고 등록부터 전자 근로계약·출퇴근·임금 정산까지 지원하는 올인원 근로관리 솔루션 | **FullStack 4** |
+| [**PopoWorld**](https://github.com/team-popo-world/popo-back-repo) | 2025.04 ~ 2025.07 | 부모와 자녀가 함께하는 게임형 금융교육 플랫폼 | FE 3 · **BE 2** · ML 4 |
+| [**FitFit**](https://github.com/haewonee/Fitfit-Server) | 2025.09 ~ 2025.12 | AI 가상 피팅과 신뢰 기반 거래를 제공하는 탄소중립 중고 의류 거래 플랫폼 | FE 1 · **BE 2** · AI 3 |
+| [**모아모아**](https://github.com/haewonee/Back-end) | 2026.01 ~ 2026.03 | 자투리 시간을 맞춤 미션으로 생산적인 시간으로 바꾸는 자기계발 플랫폼 | FE 4 · **BE 5** · PM 1 · Design 1 |
+| [**Critical Hero**](https://github.com/haewonee/critical-heros) | 2026.03 ~ 2026.06 | MCP와 RAG 기반으로 장애 원인을 추론하는 AIOps 플랫폼 | Infra 1 · **BE 1** · FullStack 1 |
+| **Every.lol** | 2026.03 ~ 2026.08 | 실시간 경기 정보와 승부예측·POG 투표를 제공하는 LCK 팬 플랫폼 | FE 3 · **BE 3** · PM 1 · Design 1 |
 
 ---
 
