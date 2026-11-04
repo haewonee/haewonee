@@ -24,7 +24,7 @@ Backend Developer
 
 백엔드 개발을 중심으로 프로젝트를 진행하며 서버 개발 경험을 쌓고 있습니다.
 
-- Java와 Spring Boot를 중심으로 백엔드 개발 역량을 키우고 있습니다.
+- Spring Boot를 중심으로 백엔드 개발 역량을 키우고 있습니다.
 - 기능 구현뿐 아니라 데이터 흐름과 서비스의 안정성까지 고민합니다.
 - 다양한 기술을 프로젝트에 적용하며 개발 경험을 넓혀가고 있습니다.
 
@@ -60,7 +60,7 @@ Backend Developer
 
 | 취득일 | 자격 | 기관 |
 |:--|:--|:--|
-| 2026.05 | AWS Certified Cloud Practitioner | AWS |
+| 2026.05.30 | AWS Certified Cloud Practitioner | AWS |
 | 2026.08.22 | SQLD | 한국데이터산업진흥원 |
 
 ---
