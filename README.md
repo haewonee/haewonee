@@ -60,7 +60,8 @@ Backend Developer
 
 | 취득일 | 자격 | 기관 |
 |:--|:--|:--|
-| 2026.05.30 | AWS Certified Cloud Practitioner | Amazon Web Services |
+| 2026.05.30 | AWS Cloud Practitioner (CLF-C02) | Foundational | Amazon Web Services |
+| 2026.11.19 | AWS Solutions Architect (SAA-C03) | Associate | Amazon Web Services |
 | 2026.08.22 | SQLD | 한국데이터산업진흥원 |
 
 ---
