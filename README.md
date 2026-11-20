@@ -105,8 +105,8 @@ Backend Developer
 
 <div align="center">
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haewonee&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/haewonee" width="100%" alt="haewonee's git farm"/>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=haewonee&utm_content=farm">
+  <img src="https://render.gitanimals.org/farms/haewonee?v=2" width="100%" alt="haewonee's git farm"/>
 </a>
 
 <br/><br/>
