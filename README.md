@@ -115,9 +115,8 @@ Backend Developer
 </a>
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=haewonee&utm_content=line">
-  <img src="https://render.gitanimals.org/lines/haewonee" width="100%" alt="haewonee's git animals line"/>
+  <img src="https://render.gitanimals.org/lines/haewonee?pet-id=763724842881728823&v=2" width="100%" height="100" alt="haewonee's git animals line"/>
 </a>
-
 </div>
 
 </td>
